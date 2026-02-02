@@ -69,7 +69,7 @@ A **microservices-based backend platform** for location-aware product discovery.
 
 ## 🤝 Let’s Connect
 
-- 💼 GitHub: [github.com/your-username](https://github.com/your-username)
+- 💼 GitHub: [github.com/your-username](https://github.com/code-with-zoro)
 - 📬 Open to collaboration on backend projects
 - 💡 Always curious to learn and improve
 
